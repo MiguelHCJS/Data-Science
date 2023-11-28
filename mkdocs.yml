@@ -30,7 +30,7 @@ theme:
   
   nav:
   - Home:
-    - Home/index.md
+    - /
   
   repo_name: MiguelHCJS/Data-Science
   repo_url: https://github.com/MiguelHCJS/Data-Science
