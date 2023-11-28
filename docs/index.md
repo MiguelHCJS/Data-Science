@@ -1,5 +1,5 @@
-# Documentação Ciência de dados
+# Visão Geral
 
-## Resumo
+## Descrição
 
 Este será um repositório para documentar o conteúdo de Ciência de dados.
