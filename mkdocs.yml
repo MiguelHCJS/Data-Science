@@ -1,4 +1,6 @@
 site_name: DeveloperPy
+site_url: http://developerpy.com.br
+site_author: Miguel Tenório
 
 theme:
   name: material
@@ -28,10 +30,10 @@ theme:
   
   nav:
   - Home:
-    - Home/index.md 
+    - Home/index.md
   
-  # repo_url: https://github.com/MiguelHCJS
-  # repo_name: MiguelHCJS/MiguelHCJS
+  repo_name: MiguelHCJS/Data-Science
+  repo_url: https://github.com/MiguelHCJS/Data-Science
 
   # icon:
   #   repo: fontawesome/brands/github
