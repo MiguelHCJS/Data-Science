@@ -1,0 +1,33 @@
+# Nivel 3
+
+- **Processamento de Linguagem Natural**:
+    - Processamento de língua natural (PLN) é uma subárea da inteligência artificial e da linguística que estuda os problemas da geração e compreensão automática de línguas humanas naturais.
+    - Análise de Sentimento
+    - Criar visualizações para facilitar a análise de dados textuais
+    - Conhecer as bibliotecas NLTK e Scikit-Learn
+    - Normalizar textos
+    - Usar TF-IDF e Ngrams para melhorar a classificação
+    - Conhecer o conceito de Transformers e como são aplicados para LLMs
+    - Utilizar o SKlearn
+    - Utilizar Regex em PLN
+    - Conhecer o Word2Vec
+    - Combinar vetores de palavras para representar textos e classificá-los
+- **Redes Neurais Recorrentes**:
+    - Redes Neurais Recorrentes (em inglês, Recurrent Neural Networks ou RNNs) são uma classe de redes neurais artificiais projetadas para lidar com dados sequenciais, como séries temporais, texto e fala. Ao contrário das redes neurais tradicionais, as RNNs têm conexões recorrentes que permitem que as informações sejam propagadas ao longo do tempo, permitindo que elas capturem dependências temporais em sequências de dados.
+    - LSTM (Long Short-Term Memory) é uma arquitetura de rede neural recorrente (RNN) projetada para superar as limitações das RNNs tradicionais na modelagem de dependências de longo prazo em sequências de dados.
+    - Conhecer a arquitetura de Redes Feedforward
+    - Funções de ativação mais comuns
+    - Familiarizar-se com as principais arquiteturas de RNNs, como bidirecionais (BRNN), Memória de curto prazo longa (LSTM), Unidades recorrentes fechadas (GRU)
+- **Redes Adversárias Generativas (GANs)**:
+    - Redes Adversárias Generativas (em inglês, Generative Adversarial Networks ou GANs) são um tipo de arquitetura de rede neural usada para gerar dados sintéticos, como imagens, música, texto ou outros tipos de dados, que se assemelham aos dados de treinamento.
+- **Viés Cognitivo e IA Responsável**:
+    - O conceito de Viés Cognitivo refere-se aos padrões sistemáticos de desvio e distorção na forma como os seres humanos percebem, interpretam e tomam decisões. Esses vieses cognitivos podem levar a distorções na análise de informações, julgamentos e comportamentos de todos os tipos, como de raça, gênero, idade, capacidades físicas, entre outros, influenciando nossas percepções e ações de maneira não racional ou imparcial.
+- **Lógica Fuzzy**:
+    - A lógica fuzzy, também conhecida como lógica difusa, é uma extensão da lógica clássica que permite o tratamento de incerteza e imprecisão nos sistemas de tomada de decisão. Enquanto a lógica clássica trabalha com valores binários (verdadeiro ou falso), a lógica fuzzy lida com valores contínuos entre 0 e 1, representando graus de pertinência.
+    - Conhecer o conceito de valor crisp
+    - Como aplicar a fuzzificação
+    - Conhecer o método Mamdani
+- **Automação com IA**:
+    - Automated IA, ou automação de IA, refere-se à combinação de tecnologias de automação, como RPA, com recursos de inteligência artificial, como processamento de linguagem natural (NLP), aprendizado de máquina (machine learning) e visão computacional. Essa abordagem visa automatizar processos complexos que envolvem o processamento e a análise de informações não estruturadas, permitindo que as máquinas tomem decisões com base nesses dados.
+- **XGBoost**:
+    - XGBoost é uma biblioteca de aprendizado de máquina baseada em gradient boosting que se destaca na resolução de problemas de classificação e regressão. "XG" em XGBoost refere-se a "Extreme Gradient", indicando o uso de gradient boosting para melhorar a precisão do modelo.
