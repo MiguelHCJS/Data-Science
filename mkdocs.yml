@@ -7,7 +7,8 @@ theme:
   
   language: pt-BR
 
-  # logo: assets/logo.png
+  favicon: assets/favicon.png
+  logo: assets/img/logo.png
 
   features:
     - navigation.instant
@@ -25,9 +26,24 @@ theme:
   
   nav:
   - Home: index.md
-  - Ciência de Dados:
-    - Ciência de dados/index.md
-    - Pontos básicos: Ciência de dados/page-1.md
+
+  - Trilha Ciência de dados:
+    - 1.-Trilha-Ciência-de-dados/index.md
+    - Níveis:
+      - Nível 1: 1.1-Níveis/nv1.md
+      - Nível 2: 1.1-Níveis/nv2.md
+      - Nível 3: 1.1-Níveis/nv3.md
+    - Assuntos:
+      - 1.2-Assuntos/index.md
+  - Trilha de estudos Inteligência Artificial:
+    - Trilha-Inteligência-Artificial/index.md
+    - Níveis:
+      - Nível 1:
+      - Nível 2:
+      - Nível 3:
+    - Assuntos:
+  - Sobre mim:
+    - Sobre/index.md
 
   icon:
     repo: fontawesome/brands/github
