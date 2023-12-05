@@ -1,0 +1,45 @@
+# Nível 2
+
+- **Machine Learning - Fundamentos**:
+    - O Aprendizado de Máquina ou Machine Learning é um subcampo da Engenharia e da Ciência da Computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
+    - Aprendizado supervisionado
+    - Utilizar algoritmos de classificação
+    - Utilizar algoritmos de regressão
+    - Utilizar o Scikit-learn para criar modelos de machine learning
+- **Machine Learning - Aprendizado Não Supervisionado**:
+    - O Aprendizado Não Supervisionado utiliza algoritmos de Aprendizado de Máquina para analisar e agrupar conjuntos de dados não rotulados. Estes algoritmos descobrem padrões ocultos ou agrupamentos de dados sem a necessidade de intervenção humana.
+    - O clustering ou análise de agrupamento de dados é o conjunto de técnicas de prospecção de dados (data mining) que visa fazer agrupamentos automáticos de dados segundo o seu grau de semelhança.
+    - Conhecer a análise exploratória
+    - Utilizar os métodos K-means, DBSCAN e Mean shift para agrupar dados sem classificação
+    - Avaliar a qualidade de uma clusterização
+    - Parametrizar métodos de clusterização através do máximo coeficiente de silhueta
+    - Entender a matemática por trás das métricas de validação Silhouette, Davies Bouldin e Calinski Harabasz
+    - Conhecer técnicas de redução de dimensionalidade
+- **Machine Learning - Avaliação de Modelos**:
+    - A Avaliação de Modelos é o processo que utiliza métricas para nos ajudar a analisar se um modelo treinado terá um bom desempenho de previsão quando exposto a novos conjuntos de dados.
+    - Conhecer diferentes estratégias de avaliação e otimização de modelos
+    - Utilizar um pipeline para treino e validação
+    - Conhecer as principais métricas de avaliação de modelos de machine learning
+- **SQL - Fundamentos**:
+    - SQL (Structured Query Language, traduzindo, Linguagem de Consulta Estruturada) é uma linguagem de programação padronizada que é usada para gerenciar bancos de dados relacionais e realizar várias operações sobre os dados neles contidos.
+    - Conhecer os comandos mais comuns do SQL
+    - Usar SELECT para consultar uma tabela
+    - Usar INSERT para inserir dados em uma tabela
+    - Usar UPDATE para atualizar uma tabela
+    - Usar DELETE para remover dados de uma tabela
+    - Usar JOIN para conectar os dados de múltiplas tabelas
+    - Conhecer as cláusulas (FROM, ORDER BY, etc)
+- **Web Scraping**:
+    - Web scraping ou raspagem de dados na web é a extração de dados de websites.
+    - Usar o BeautifulSoup e Python para coletar dados
+    - Pesquisar e navegar no HTML
+    - Acessar o conteúdo e atributos das tags HTML
+    - Construir datasets com os resultados das raspagens
+- **Testes Estatísticos**:
+    - Testes estatísticos são usados para examinar as relações entre as variáveis e as hipóteses de teste.
+    - Criar intervalos de confiança para amostras
+    - Comparar grupos de amostras
+    - Executar testes estatísticos
+    - Planejar experimentos para a coleta de dados
+    - Propor modelos matemáticos para entender um dado problema
+    - Construir mapas de cores para auxiliar a interpretação dos dados

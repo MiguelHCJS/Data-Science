@@ -1,0 +1,114 @@
+# Nivel 1
+
+- **Python para Ciência de Dados**:
+    - Python é uma linguagem de programação interpretada de alto nível e que suporta múltiplos paradigmas de programação, como imperativo, orientado a objetos e funcional. É uma linguagem com tipagem dinâmica e gerenciamento automático de memória.
+    - Aprender lógica de programação em Python
+    - Aprenda os fundamentos da linguagem como variáveis, funções, listas, condicionais e imports
+    - Criar análises de dados
+    - Utilizar o Matplotlib para gerar gráficos
+    - Usar e manipular listas para agrupar dados
+    - Conhecer a biblioteca NumPy
+    - Conhecer a biblioteca Pandas
+- **Python - Coleções**:
+    - Uma coleção representa um grupo de objetos, conhecidos como seus elementos. Eles são como recipientes que agrupam vários itens em uma única unidade. Algumas coleções permitem a duplicação de elementos e outras não. Algumas são ordenadas e outras não ordenadas.
+    - Utilizar listas e tuplas
+    - Utilizar polimorfismo nas coleções
+    - Utilizar conjuntos e dicionários
+- **Jupyter & Colab notebooks**:
+    - Jupyter Notebook e Google Colaboratory são Notebooks que permitem a criação de blocos de texto e blocos de código
+    - Os Notebooks facilitam a elaboração de projetos de Data Science por ser possível visualizar o resultado da execução logo após o trecho de código
+    - O Google Colaboratory permite escrever e executar códigos Python diretamente no navegador, sem nenhuma ou poucas configurações necessárias
+    - Essas ferramentas facilitam o compartilhamento de projetos entre o time
+- **Regressão Linear e Logística**:
+    - As regressões são os métodos mais simples de aprendizado supervisionado, porém encontram diversas aplicações.
+    - A regressão linear é usada para relacionar uma variável dependente contínua a uma ou mais variáveis independentes contínuas. O objetivo é encontrar uma relação linear que melhor se ajuste aos dados.
+    - A regressão logística, por outro lado, é usada para problemas de classificação binária, onde a variável de saída é categórica e possui apenas duas categorias. Ela estima a probabilidade de um evento ocorrer com base nas variáveis independentes.
+- **Estatística e Matemática - Fundamentos**:
+    - Equações, funções e limites
+    - Logaritmos
+    - Matrizes, determinantes, vetores e espaço vetorial
+    - Derivadas e integrais
+    - Diferença entre média, mediana e moda
+    - Distribuição de frequência
+    - Variância e desvio padrão
+    - Distribuição binomial, poisson e normal
+    - Nível e intervalo de confiança
+    - Técnicas de amostragem
+    - Regressão linear
+    - Séries temporais
+- **Machine Learning - Fundamentos**:
+    - O Aprendizado de Máquina ou Machine Learning é um subcampo da Engenharia e da Ciência da Computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
+    - Aprendizado supervisionado
+    - Utilizar algoritmos de classificação
+    - Utilizar algoritmos de regressão
+    - Utilizar o Scikit-learn para criar modelos de machine learning
+- **Machine Learning - Aprendizado Não Supervisionado**:
+    - O Aprendizado Não Supervisionado utiliza algoritmos de Aprendizado de Máquina para analisar e agrupar conjuntos de dados não rotulados. Estes algoritmos descobrem padrões ocultos ou agrupamentos de dados sem a necessidade de intervenção humana.
+    - O clustering ou análise de agrupamento de dados é o conjunto de técnicas de prospecção de dados (data mining) que visa fazer agrupamentos automáticos de dados segundo o seu grau de semelhança.
+    - Conhecer a análise exploratória
+    - Utilizar os métodos K-means, DBSCAN e Mean shift para agrupar dados sem classificação
+    - Avaliar a qualidade de uma clusterização
+    - Parametrizar métodos de clusterização através do máximo coeficiente de silhueta
+    - Entender a matemática por trás das métricas de validação Silhouette, Davies Bouldin e Calinski Harabasz
+    - Conhecer técnicas de redução de dimensionalidade
+- **Naive Bayes**:
+    - Naive Bayes é um algoritmo de aprendizado de máquina comumente utilizado para classificação de texto e análise de sentimentos. Ele é baseado no teorema de Bayes, que descreve a probabilidade condicional de um evento ocorrer, dado que outro evento já ocorreu.
+
+## Habilidade Auxiliar: Business e Serviços
+
+- **Big Data e Engenharia de Dados**:
+    - Big data é a área do conhecimento que estuda como tratar, analisar e obter informações a partir de conjuntos de dados grandes demais para serem analisados por sistemas tradicionais.
+    - Engenharia de Dados envolve o desenvolvimento e organização de processos para coleta, armazenamento e transformação de dados em grande escala.
+    - Criar um pipeline de dados
+    - Conhecer o Apache Airflow
+    - Conhecer o Apache Spark
+    - Conhecer o conceito de Data Lake
+    - Interagir com servidores na nuvem
+    - Criar aplicações Spark
+- **Git e GitHub - Fundamentos**:
+    - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+    - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
+    - Criar um repositório
+    - Clonar um repositório
+    - Fazer commit, push e pull de e para o repositório
+    - Reverter um commit
+    - Criar branches e pul requests
+    - Lidar com merge e conflitos
+- **Governança em IA e Business Analytics**:
+    - A governança em Business Analytics refere-se à gestão dos processos e estratégias de análise de dados nas organizações. Isso envolve a definição de políticas e procedimentos para a coleta, organização, análise e interpretação dos dados para obter insights valiosos e embasar a tomada de decisões empresariais.
+- **Plataformas e Serviços Cognitivos**:
+    - Plataformas e serviços são projetados para fornecer recursos avançados de processamento de linguagem natural, reconhecimento de fala, visão computacional, análise de sentimentos e outras capacidades cognitivas.
+    - Como lidar com pipelines
+    - Conhecer o Databricks
+    - Conhecer o PySpark
+    - Conhecer o SageMaker
+- **SQL - Fundamentos**:
+    - SQL (Structured Query Language, traduzindo, Linguagem de Consulta Estruturada) é uma linguagem de programação padronizada que é usada para gerenciar bancos de dados relacionais e realizar várias operações sobre os dados neles contidos.
+    - Conhecer os comandos mais comuns do SQL
+    - Usar SELECT para consultar uma tabela
+    - Usar INSERT para inserir dados em uma tabela
+    - Usar UPDATE para atualizar uma tabela
+    - Usar DELETE para remover dados de uma tabela
+    - Usar JOIN para conectar os dados de múltiplas tabelas
+    - Conhecer as cláusulas (FROM, ORDER BY, etc)
+- **Cloud - Fundamentos**:
+    - Cloud, ou computação em nuvem é a distribuição de serviços de computação pela Internet usando um modelo de preço pago conforme o uso. Uma nuvem é composta de vários recursos de computação, que abrangem desde os próprios computadores (ou instâncias, na terminologia de nuvem) até redes, armazenamento, bancos de dados e o que estiver em torno deles. Ou seja, tudo o que normalmente é necessário para montar o equivalente a uma sala de servidores, ou mesmo um data center completo, estará pronto para ser utilizado, configurado e executado.
+    - Conhecer a diferença entre IaaS, PaaS e SaaS
+    - Conhecer os maiores provedores de cloud
+    - Especializar-se em algum provedor
+- **Habilidades de comunicação**:
+    - Um bom nível de comunicação facilita o atingimento de objetivos, resolução de problemas, além de aumentar a produtividade, porque cada profissional saberá exatamente o que se espera dele e transmitir com clareza suas ideias.
+
+## Habilidade Auxiliar: Hardware e Eletrônica
+
+- **Robótica na IA - Fundamentos**:
+    - Uma das vertentes da revolução 4.0 é a implementação em larga escala industrial da IA aos sistemas robotizados, podendo desenvolver processos autônomos e autogerenciáveis em campo.
+- **Hardwares para IA**:
+    - Hardwares para IA são componentes físicos, como processadores, placas de vídeo e sistemas especializados, que são projetados e otimizados para realizar tarefas relacionadas à inteligência artificial de maneira eficiente e rápida. Eles são especialmente projetados para lidar com as demandas computacionais intensivas e algoritmos complexos usados em modelos de aprendizado de máquina e deep learning.
+- **Computação Paralela & Clusters**:
+    - Computação paralela refere-se ao uso de múltiplos processadores ou unidades de processamento para executar tarefas computacionais simultaneamente, em paralelo. Em vez de um único processador executar uma tarefa de cada vez, a computação paralela divide a carga de trabalho em várias partes menores que podem ser processadas em paralelo, resultando em maior eficiência e velocidade de processamento.
+- **Internet das Coisas (IoT) - Fundamentos**:
+    - Quase todos os objetos agora podem ser conectados à Internet, de máquinas de lavar a componentes sofisticados de motor de avião, a itens orgânicos, como plantações e vacas. A capacidade de conectar coisas e capturar dados úteis está transformando as empresas de todos os setores e abrindo portas para novas especializações de carreira. Descubra a base desse novo campo com atividades práticas para conectar os sensores com segurança aos serviços em nuvem nas redes IP e coletar dados em um sistema de IoT (Internet das Coisas) de ponta a ponta.
+    - Como rodar seu primeiro sistema em um Arduino
+- **Wearables e Aquisição de Dados**:
+    - Wearables é a expressão que representa as tecnologias vestívies que além de captar biopotenciais podem gerar dados de grande valia, como relógios e óculos inteligentes, e também na área na saúde para pessoas com alguma deficiência física.

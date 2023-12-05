@@ -1,0 +1,38 @@
+# Nivel 2
+
+- **Previsão de Séries temporais**:
+    - A previsão de séries temporais (Time series Forecasting), também conhecida como previsão temporal, é uma técnica de análise estatística que envolve a previsão de valores futuros ou padrões com base em dados históricos ordenados no tempo. Em uma série temporal, os dados são coletados sequencialmente em intervalos regulares, como horários, diários, mensais ou anuais, e exibem dependências temporais.
+- **Deep Learning**:
+    - Deep Learning é um ramo de Machine Learning baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
+    - Construir e treinar modelos com Keras
+    - Construir e treinar modelos com Tensorflow
+    - Selecionar as camadas de um modelo
+    - Classificar imagens
+    - Entender os conceitos de pesos e vieses
+    - Redes neurais para regressão
+    - Entender o conceito de Redes recorrentes
+- **Visão Computacional**:
+    - Visão Computacional é um campo científico interdisciplinar que lida com a forma como os computadores podem ganhar conhecimentos de alto nível a partir de imagens ou vídeos digitais. Da perspectiva da engenharia, procura compreender e automatizar tarefas que o sistema visual humano pode fazer.
+    - Extrair regiões de interesse de uma imagem
+    - Normalizar e pré-processar dados de imagens
+    - Construir classificadores para reconhecimento de faces
+    - Extrair regiões do rosto humano baseado em marcos faciais
+    - Analisar diferentes condições de cada componente do rosto humano
+    - Conhecer Redes Neurais Convolucionais
+    - Usar OpenCV
+- **Redes Neurais Convolucionais**:
+    - As CNNs (Convolutional Neural Networks, ou Redes Neurais Convolucionais) são um subtipo de redes neurais artificiais profundas (Deep Learning). AS CNNs são majoritariamente empregadas para o processamento de imagens e vídeos, no contexto de classificação do seu conteúdo. Ao contrário de outros algoritmos tradicionais de classificação de imagens, uma CNN tende a demandar menos esforços de pré-processamento nos dados de entrada.
+- **Redução de Dimensionalidade**:
+    - Redução de dimensionalidade é uma técnica utilizada no campo de aprendizado de máquina e análise de dados para reduzir o número de variáveis ou dimensões em um conjunto de dados. O objetivo é simplificar a representação dos dados, eliminando ou combinando características redundantes ou irrelevantes, enquanto mantém a maior parte da informação original.
+- **Machine Learning - Aprendizado por Transferência**:
+    - Transfer Learning (Aprendizado por Transferência) é uma abordagem na área de Machine Learning em que um modelo pré-treinado em uma tarefa relacionada é reutilizado como ponto de partida para treinar um modelo em uma tarefa diferente, geralmente com menos dados disponíveis.
+- **Machine Learning - Regularização**:
+    - Regularização se refere a um conjunto de técnicas para tornar os dados mais regulares e estáveis, facilitando o aprendizado e a descoberta de padrões em Machine Learning. A regularização é uma técnica que reduz o erro de um modelo, evitando o sobreajustamento (Overfitting) e treinando o modelo para funcionar corretamente.
+- **Chatbots**:
+    - Chatbots são agentes virtuais projetados para interagir com seres humanos por meio de uma interface de chat. Eles são baseados em técnicas de processamento de linguagem natural (NLP) e inteligência artificial (IA) para entender e responder às perguntas e comandos dos usuários de forma automatizada.
+- **Machine Learning - Máquina de Vetores de Suporte**:
+    - Uma máquina de vetores de suporte (SVM, do inglês Support Vector Machine) é um conceito da Ciência da Computação para um conjunto de métodos de Aprendizado Supervisionado que analisam os dados e reconhecem padrões. O SVM pode ser usanto tanto para modelar problemas preditivos de classificação quanto de regressão.
+- **Segmentação Semântica e Instanciada de Imagens**:
+    - A segmentação semântica e instanciada de imagens é uma tarefa na área de visão computacional que envolve a atribuição de rótulos a pixels individuais em uma imagem. Ela tem como objetivo segmentar e identificar os objetos presentes na imagem, distinguindo diferentes classes de pixels e separando instâncias individuais dessas classes.
+- **Visão Computacional - Extração de Características**:
+    - Feature Extraction (ou Extração de Características) é um processo na área de Machine Learning e Visão Computacional em que características relevantes e discriminantes são extraídas de um conjunto de dados para representar os objetos ou padrões de interesse. Essas características são transformadas em um novo conjunto de representações que possuem propriedades informativas para uma tarefa específica.

@@ -1,0 +1,39 @@
+# Nível 3
+
+- **Deep Learning**:
+    - Deep Learning é um ramo de Machine Learning baseado em um conjunto de algoritmos que tentam modelar abstrações de alto nível de dados usando um grafo profundo com várias camadas de processamento, compostas de várias transformações lineares e não lineares.
+    - Construir e treinar modelos com Keras
+    - Construir e treinar modelos com Tensorflow
+    - Selecionar as camadas de um modelo
+    - Classificar imagens
+    - Entender os conceitos de pesos e vieses
+    - Redes neurais para regressão
+    - Entender o conceito de Redes recorrentes
+- **Aprendizado por Reforço**:
+    - O Aprendizado por Reforço é uma área de Machine Learning que se preocupa com a forma como agentes inteligentes devem tomar medidas num ambiente, a fim de maximizar a noção de recompensa cumulativa.
+    - Entender os conceitos de agente e recompensa
+    - Entender a diferença entre reforço positivo e negativo
+    - Conhecer o modelo Markov Decision Process
+    - Entender o conceito de Retorno
+    - Utilizar o algoritmo Q-learning
+- **Visão Computacional**:
+    - Visão Computacional é um campo científico interdisciplinar que lida com a forma como os computadores podem ganhar conhecimentos de alto nível a partir de imagens ou vídeos digitais. Da perspectiva da engenharia, procura compreender e automatizar tarefas que o sistema visual humano pode fazer.
+    - Extrair regiões de interesse de uma imagem
+    - Normalizar e pré-processar dados de imagens
+    - Construir classificadores para reconhecimento de faces
+    - Extrair regiões do rosto humano baseado em marcos faciais
+    - Analisar diferentes condições de cada componente do rosto humano
+    - Conhecer Redes Neurais Convolucionais
+    - Usar OpenCV
+- **Processamento de Linguagem Natural**:
+    - Processamento de língua natural (PLN) é uma subárea da inteligência artificial e da linguística que estuda os problemas da geração e compreensão automática de línguas humanas naturais.
+    - Análise de Sentimento
+    - Criar visualizações para facilitar a análise de dados textuais
+    - Conhecer as bibliotecas NLTK e Scikit-Learn
+    - Normalizar textos
+    - Usar TF-IDF e Ngrams para melhorar a classificação
+    - Conhecer o conceito de Transformers e como são aplicados para LLMs
+    - Utilizar o SKlearn
+    - Utilizar Regex em PLN
+    - Conhecer o Word2Vec
+    - Combinar vetores de palavras para representar textos e classificá-los
