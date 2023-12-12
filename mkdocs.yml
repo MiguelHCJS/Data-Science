@@ -35,6 +35,10 @@ theme:
       - Nível 3: 1.1-Níveis/nv3.md
     - Assuntos:
       - 1.2-Assuntos/index.md
+      - Página 1: 1.2-Assuntos/01-page.md
+      - Página 2: 1.2-Assuntos/02-page.md
+      - Página 3: 1.2-Assuntos/03-page.md
+      - Página 4: 1.2-Assuntos/04-page.md
   - Trilha de estudos Inteligência Artificial:
     - Trilha-Inteligência-Artificial/index.md
     - Níveis:

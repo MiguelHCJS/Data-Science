@@ -5,7 +5,3 @@ Nessa documentação, centralizarei os estudos em Ciência de dados e meu objeti
 **Objetivos**
 
 Foco em obter valor a toda solução em que eu trabalhar, tenho focado meus estudos em Python, para alcançar experiências em automações e ciência de dados. Com essa bagagem, espero alcançar o desenvolvimento de IA.
-
-**Formação acadêmica**
-
-Formado em Administração e com especialização em Gestão de Projetos. Atualmente estudando Engenharia de Software, e me especializarei em Ciência de dados e IA, respectivamente.
